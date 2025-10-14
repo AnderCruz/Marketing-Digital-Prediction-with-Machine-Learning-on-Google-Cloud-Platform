@@ -1,10 +1,10 @@
-# ☁️ Marketing Digital Prediction with Machine Learning on Google Cloud Platform
+# Marketing Digital Prediction with Machine Learning on Google Cloud Platform
 
 This project demonstrates the application of **Machine Learning** for **Digital Marketing** using **Google Cloud Platform (GCP)**. It focuses on predicting **user spending behavior** and determining whether a user will make a purchase on a tourism website, using **real user behavior data from Google Analytics** stored in **Google BigQuery**.
 
 Developed by **Nowa Analytics**, a consultancy specializing in data-driven business solutions.
 
----
+
 
 ## 📌 Project Overview
 
@@ -17,7 +17,7 @@ By leveraging **Google Cloud Platform** tools such as **BigQuery** and **Datalab
 
 This approach enables data-driven decision-making, improves campaign performance, and enhances the user experience on the website.
 
----
+
 
 ## ⚙️ Project Steps
 
@@ -58,7 +58,7 @@ This approach enables data-driven decision-making, improves campaign performance
    * Segment users based on predicted behavior
    * Recommend marketing strategies and website improvements
 
----
+
 
 ## 📁 Project Structure
 
@@ -76,7 +76,7 @@ This approach enables data-driven decision-making, improves campaign performance
 └── requirements.txt      # Python dependencies
 ```
 
----
+
 
 ## 📊 Technologies & Libraries
 
@@ -88,7 +88,7 @@ This approach enables data-driven decision-making, improves campaign performance
 * Imbalanced-learn (for downsampling)
 * Jupyter Notebook
 
----
+
 
 ## ✅ Results
 
@@ -97,7 +97,6 @@ This approach enables data-driven decision-making, improves campaign performance
 * Insights to improve website user experience
 * Demonstrated performance gains using **XGBoost** and Gradient Boosting
 
----
 
 ## 🏢 About Nowa Analytics
 
@@ -106,7 +105,7 @@ This approach enables data-driven decision-making, improves campaign performance
 📍 São Paulo, Madrid, and London
 🌐 [nowaanalytics.com](http://nowaanalytics.com) *(replace with real link if available)*
 
----
+
 
 ## 📬 Contact
 
